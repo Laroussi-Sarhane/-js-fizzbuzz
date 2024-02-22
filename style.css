@@ -1,0 +1,23 @@
+.box{
+  width: 60px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: cadetblue;
+  border: 1px solid black;
+  margin: 5px;
+  color: white;
+}
+#my_container{
+  max-width: 600px;
+}
+
+.box.multi5{
+  background-color: rgb(46, 197, 12);
+  
+}
+
+.box.dispari{
+  background-color: brown;
+}
