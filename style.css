@@ -21,3 +21,6 @@
 .box.dispari{
   background-color: brown;
 }
+.box.fizz{
+  background-color: black;
+}
